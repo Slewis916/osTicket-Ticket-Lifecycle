@@ -2,12 +2,13 @@
 ![alt text](images/logo%20copy.png)
 ---
 
+<br>
+<br>
 
-An example of how tickets are created and resolved.
+### An example of how tickets are created and resolved.
+<br>
+<br>
 
-
-
----
 ## Lifecycle Summary (Status Flow)
 📌 New → Open → Assigned → Resolved → Closed → Archived
 
