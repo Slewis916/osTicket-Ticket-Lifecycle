@@ -1,4 +1,4 @@
-# osTicket-Ticket-Lifecycle
+# osTicket Ticket Lifecycle
 ![alt text](images/logo%20copy.png)
 
 ## User opens a new ticket -> Help topic selection  
