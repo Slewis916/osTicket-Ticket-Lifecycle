@@ -22,6 +22,7 @@ An example of how tickets are created and resolved.
 ## Assigned agent investigates → resolves issue →  closes ticket
 ![alt text](images/TICKETLIFECYCLE6.png)
 
+This tutorial outlines the journey of a support ticket from creation to resolution.
 
 
 
