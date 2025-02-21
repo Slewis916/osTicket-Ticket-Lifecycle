@@ -1,7 +1,12 @@
 # osTicket Ticket Lifecycle
 ![alt text](images/logo%20copy.png)
 ---
+
+
 An example of how tickets are created and resolved.
+
+
+
 ---
 ## Lifecycle Summary (Status Flow)
 📌 New → Open → Assigned → Resolved → Closed → Archived
